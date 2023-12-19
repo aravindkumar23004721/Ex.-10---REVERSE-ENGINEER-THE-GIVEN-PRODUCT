@@ -1,4 +1,4 @@
-# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
+![WhatsApp Image 2023-12-19 at 16 04 15_13d840e1](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/2ce7a841-2595-468a-8517-0fae67074083)# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2023-12-19 at 16 04 15_427a5612](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/f1124ff3-a352-455c-a141-f69f8fd5d0f4)
 
 ### Output:
+![WhatsApp Image 2023-12-19 at 16 04 15_13d840e1](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/4b30ec68-24af-4fda-8d5d-951800b2a474)
 
 
-### Name:
-### Register Number:
+### Name:Aravindkumar SS
+### Register Number:23004721
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
