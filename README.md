@@ -1,7 +1,5 @@
 ![WhatsApp Image 2023-12-19 at 16 04 15_13d840e1](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/2ce7a841-2595-468a-8517-0fae67074083)# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
-
 ### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
