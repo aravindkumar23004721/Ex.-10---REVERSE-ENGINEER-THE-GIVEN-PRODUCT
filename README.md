@@ -28,11 +28,11 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
-![WhatsApp Image 2023-12-19 at 16 04 15_427a5612](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/f1124ff3-a352-455c-a141-f69f8fd5d0f4)
+### Input:
+![WhatsApp Image 2023-12-19 at 16 04 15_da964a91](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/0192e157-6e77-4dbd-ba0d-9722586f13eb)
 
 ### Output:
-![WhatsApp Image 2023-12-19 at 16 04 15_13d840e1](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/4b30ec68-24af-4fda-8d5d-951800b2a474)
+![WhatsApp Image 2023-12-19 at 16 04 15_223bc50b](https://github.com/aravindkumar23004721/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148962674/9b0a0f44-08a5-4dd8-a745-3e39ca03310e)
 
 
 ### Name:Aravindkumar SS
